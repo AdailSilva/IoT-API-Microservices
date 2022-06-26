@@ -10,9 +10,9 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.adailsilva.iot.api</groupId>
-	<artifactId>iot-api</artifactId>
+	<artifactId>MS_HR-Worker</artifactId>
 	<version>1.0.0</version>
-	<name>IoT-API-Microservices_hr-worker</name>
+	<name>MS_HR-Worker</name>
 	<description>Designing an API for the Internet of Things with Spring Boot</description>
 	<properties>
 		<java.version>17</java.version>
