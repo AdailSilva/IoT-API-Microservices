@@ -1,4 +1,4 @@
-package com.adailsilva.iot.api.controller;
+package com.adailsilva.iot.api.resources;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
